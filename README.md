@@ -13,7 +13,7 @@
 <a href="https://twitter.com/cuteghost1517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cuteghost1517" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18925466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18925466" height="30" width="40" /></a>
 <a href="https://instagram.com/cuteghost1517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cuteghost1517" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cute ghost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cute ghost" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCdgwKGtwtotWHcxIkRG2ltw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cute ghost" height="30" width="40" /></a>
 <a href="https://discord.gg/CuteGhost#6257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CuteGhost#6257" height="30" width="40" /></a>
 </p>
 
